@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+geojson/geoboundary.geojson
+geojson/puntos_control_segmentacion.csv
+
+model/*
